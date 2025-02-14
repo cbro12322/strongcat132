@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blank Black Page</title>
+    <style>
+        body {
+            background-color: black;
+            margin: 0; /* Remove default margins */
+            overflow: hidden; /* Prevent scrollbars */
+        }
+    </style>
+</head>
+<body>
+
+</body>
+</html>
