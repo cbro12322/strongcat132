@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Grey Page</title>
+<style>
+body {
+  background-color: lightgrey; /* Or any shade of grey you prefer, e.g., #808080, #D3D3D3 */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+}
+</style>
+</head>
+<body>
+
+</body>
+</html>
