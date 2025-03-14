@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Grey Page with Boxes</title>
+<style>
+body {
+  background-color: lightgrey;
+  margin: 0;
+  padding: 0;
+}
+.box {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border: 1px solid black;
+  display: inline-block;
+  margin: 5px;
+}
+</style>
+</head>
+<body>
+
+<div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><br>
+<div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><br>
+<div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><br>
+<div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><br>
+<div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><br>
+
+</body>
+</html>
