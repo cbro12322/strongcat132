@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Grey Page with Boxes and Input</title>
+<style>
+body {
+  background-color: lightgrey;
+  margin: 0;
+  padding: 0;
+}
+.box {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border: 1px solid black;
+  display: inline-block;
+  margin: 5px;
+  text-align: center; /* Center the input text */
+}
+
+.box input {
+  width: 100%; /* Make the input fill the box */
+  height: 100%; /* Make the input fill the box */
+  border: none; /* Remove default input border */
+  text-align: center; /* Center the input text */
+  padding: 0; /* Remove default padding */
+  margin: 0; /* Remove default margin */
+  font-size: 10px; /* Adjust font size if needed */
+}
+
+</style>
+</head>
+<body>
+
+<div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><br>
+<div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><br>
+<div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><br>
+<div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><br>
+<div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><div class="box"><input type="text" maxlength="1"></div><br>
+
+</body>
+</html>
